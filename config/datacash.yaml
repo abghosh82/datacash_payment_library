@@ -1,0 +1,10 @@
+# Provides basic datacash configurations.
+dev:
+  parameters:
+    server_url: https://testserver.datacash.com/Transaction
+    timeout: 60
+    datacash_network_ssl_path:
+    datacash_network_ssl_verify: false
+    # Proxy URL as http://user:pass@twww.exampleproxyurl.com
+    proxy_url:
+    redirect_url: https://testserver.datacash.com/hps/?HPS_SessionID=

@@ -1,2 +1,1 @@
-# datacash_payment_library
-Provides datacash library for integrating payments.
+Provides Library for integrating datacash payment gateway.
